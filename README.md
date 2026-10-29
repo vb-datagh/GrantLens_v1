@@ -2,7 +2,7 @@
 
 **From a spreadsheet of grant prospects to a defensible research plan.**
 
-GrantLens is a Python analytics application for understanding a funding pipeline, identifying unreliable data, and prioritizing follow-up. Built as a portfolio project by V. Bryant, it extends grant prospect exploration into interactive decision support.
+GrantLens is a Python analytics application for understanding a funding pipeline, identifying unreliable data, and prioritizing follow-up. Built as an ongoing portfolio project, it extends grant prospect exploration into interactive decision support.
 
 ## Business questions
 
