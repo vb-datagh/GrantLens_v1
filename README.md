@@ -1,4 +1,4 @@
-# GrantLens(v1)
+# GrantLens (v1)
 
 **From a spreadsheet of grant prospects to a defensible research plan.**
 
