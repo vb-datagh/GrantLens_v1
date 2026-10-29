@@ -30,6 +30,16 @@ The demo loads automatically. The fixed demo analysis date is October 29, 2026; 
 python -m unittest discover -s tests -v
 ```
 
+## Try a sample CSV upload
+
+Download the [sample CSV](data/demo.csv), or select **Download CSV template** in the app sidebar. The sample includes 14 fictional grant prospects with intentional duplicates, missing values, and an invalid fit score so you can explore the data quality checks.
+
+1. Save the CSV to your computer. On GitHub, open `data/demo.csv` and use **Download raw file**.
+2. In GrantLens, select **Import prospect CSV** in the sidebar and choose the saved file.
+3. Set **Analysis date** to **October 29, 2026** to reproduce the demo results below; uploaded files otherwise default to today's date.
+4. Explore **Business overview**, **Action queue**, and **Data quality**. Use the funding type and pipeline stage filters to compare segments.
+5. Download the selected analysis or quality findings using the export buttons.
+
 ## A reproducible demo story
 
 The 14-row fictional dataset deliberately contains a duplicated opportunity, an unknown amount and deadline, and an invalid fit score. With all filters selected and the default date:
